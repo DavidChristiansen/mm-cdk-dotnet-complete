@@ -7,10 +7,25 @@
 
   <ItemGroup>
     <PackageReference Include="Amazon.CDK" Version="1.15.0-devpreview" />
+    <PackageReference Include="Amazon.CDK.AWS.CodeBuild" Version="1.15.0-devpreview" />
+    <PackageReference Include="Amazon.CDK.AWS.CodeCommit" Version="1.15.0-devpreview" />
+    <PackageReference Include="Amazon.CDK.AWS.CloudFront" Version="1.15.0-devpreview" />
     <PackageReference Include="Amazon.CDK.AWS.IAM" Version="1.15.0-devpreview" />
+    <PackageReference Include="Amazon.CDK.AWS.S3" Version="1.15.0-devpreview" />
+    <PackageReference Include="Amazon.CDK.AWS.S3.Deployment" Version="1.15.0-devpreview" />
+    <PackageReference Include="Amazon.CDK.AWS.APIGateway" Version="1.15.0-devpreview" />
+    <PackageReference Include="Amazon.CDK.AWS.CodePipeline.Actions" Version="1.15.0-devpreview" />
+    <PackageReference Include="Amazon.CDK.AWS.Cognito" Version="1.15.0-devpreview" />
+    <PackageReference Include="Amazon.CDK.AWS.DynamoDB" Version="1.15.0-devpreview" />
+    <PackageReference Include="Amazon.CDK.AWS.ECR" Version="1.15.0-devpreview" />
+    <PackageReference Include="Amazon.CDK.AWS.ECS.Patterns" Version="1.15.0-devpreview" />
+    <PackageReference Include="Amazon.CDK.AWS.ElasticLoadBalancingV2" Version="1.15.0-devpreview" />
+    <PackageReference Include="Amazon.CDK.AWS.KinesisFirehose" Version="1.15.0-devpreview" />
+    <PackageReference Include="Amazon.CDK.AWS.Lambda.EventSources" Version="1.15.0-devpreview" />
+    <PackageReference Include="Amazon.CDK.AWS.SageMaker" Version="1.15.0-devpreview" />
     <PackageReference Include="Amazon.CDK.AWS.SNS" Version="1.15.0-devpreview" />
     <PackageReference Include="Amazon.CDK.AWS.SNS.Subscriptions" Version="1.15.0-devpreview" />
-    <PackageReference Include="Amazon.CDK.AWS.SQS" Version="1.15.0-devpreview" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
   </ItemGroup>
 
 </Project>
