@@ -25,7 +25,7 @@
     <PackageReference Include="Amazon.CDK.AWS.SageMaker" Version="1.15.0-devpreview" />
     <PackageReference Include="Amazon.CDK.AWS.SNS" Version="1.15.0-devpreview" />
     <PackageReference Include="Amazon.CDK.AWS.SNS.Subscriptions" Version="1.15.0-devpreview" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
   </ItemGroup>
 
 </Project>
